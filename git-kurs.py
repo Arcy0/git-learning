@@ -1,2 +1,2 @@
-print("Hello World")
+print("Hello Mariusz")
 print("Zmiana w drugim repo")
